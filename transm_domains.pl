@@ -1,4 +1,4 @@
-open OUT,">out.txt"; #read a txt from the input
+open OUT,">out.txt";
 
 $/="\/\/\n";
 
